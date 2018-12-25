@@ -1,5 +1,5 @@
 {
-  "name": "anydir",
+  "name": "anydir-tiny",
   "version": "0.0.1",
   "description": "tiny nodejs web server",
   "main": "src/app.js",
