@@ -1,0 +1,16 @@
+{
+  "name": "anydir",
+  "version": "0.0.1",
+  "description": "tiny nodejs web server",
+  "main": "src/app.js",
+  "bin": {
+    "anydir": "bin/anydir"
+  },
+  "devDependencies": {
+    "eslint": "^5.11.0"
+  },
+  "dependencies": {
+    "chalk": "^2.4.1",
+    "yargs": "^12.0.5"
+  }
+}
